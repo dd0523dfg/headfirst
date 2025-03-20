@@ -1,3 +1,3 @@
-module github.com/dd0523dfg/headfirst
+module headfirst
 
 go 1.24.1
